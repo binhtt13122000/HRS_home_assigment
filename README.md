@@ -1,7 +1,7 @@
 # MVP Hotel Booking
 
 ### Postman Collection
-[Download Postman Collection](https://github.com/binhtt13122000/booking_mvp_hrs/blob/main/MVP_Hotel_HRS.postman_collection.json)
+[Download Postman Collection](https://github.com/binhtt13122000/HRS_home_assigment/blob/main/MVP_Hotel_HRS.postman_collection.json)
 ### How to install
 #### 1. Requirements:
 - Docker
